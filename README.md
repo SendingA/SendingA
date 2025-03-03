@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**SendingA/SendingA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![light](https://github.com/SendingA/SendingA/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![dark](https://github.com/SendingA/SendingA/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+I am **Shengding Liu**, a passionate Computer Science and Technology student at **Southern University of Science and Technology (SUSTech)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 I'm pursuing a **B.Eng. in Computer Science and Technology** at **SUSTech**.
+- 🌱 I'm working on enhancing **Large Language Models** at my current internship in **Linksome**.
+- 🎯 I'm preparing for my **MPhil applications** in **Computer Science (2025)**.
+
+### Contact Me
+
+- 📧 Email: [12110813@mail.sustech.edu.cn](mailto:12110813@mail.sustech.edu.cn)
+- 🌐 Website: https://sendinga.github.io/
+
+### GitHub Stats
+
+![Shengding Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=it-bill&show_icons=true&count_private=true&theme=radical)
