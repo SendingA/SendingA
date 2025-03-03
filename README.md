@@ -18,4 +18,4 @@ I am **Shengding Liu**, a passionate Computer Science and Technology student at 
 
 ### GitHub Stats
 
-![Shengding Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=it-bill&show_icons=true&count_private=true&theme=radical)
+![Shengding Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendinga&show_icons=true&count_private=true&theme=radical)
