@@ -16,6 +16,6 @@ I am **Shengding Liu**. I will receive my B.E. degree in the Department of Compu
 - 📧 Email: [12110813@mail.sustech.edu.cn](mailto:12110813@mail.sustech.edu.cn)
 - 🌐 Website: https://sendinga.github.io/
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
-![Shengding Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendinga&show_icons=true&count_private=true&theme=radical)
+![Shengding Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendinga&show_icons=true&count_private=true&theme=radical) -->
