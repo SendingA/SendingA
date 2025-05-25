@@ -9,7 +9,7 @@ I am **Shengding Liu**. I will receive my B.E. degree in the Department of Compu
 
 - 🎓 I'm pursuing a **B.Eng. in Computer Science and Technology** at **SUSTech**.
 - 🌱 My research interests include **smart sensing**, **wireless network** and **mobile computing** 
-- 🎯 I'm applying for a **PHD Degree** in **Computer Science (2025 Fall)**.
+- 🎯 I'll pursue a **PHD Degree** in **Computer Science (2025 Fall)** at **Michigan State University**.
 
 ### Contact Me
 
