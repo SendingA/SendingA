@@ -13,7 +13,7 @@ I am **Shengding Liu**, one fresh PHD student at Michigan State University. I ho
 
 ### Contact Me
 
-- 📧 Email: [12110813@mail.sustech.edu.cn](mailto:12110813@mail.sustech.edu.cn)
+- 📧 Email: [liushe10@msu.edu](mailto:liushe10@msu.edu)
 - 🌐 Website: https://sendinga.github.io/
 
 <!-- ### GitHub Stats
