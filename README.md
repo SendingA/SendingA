@@ -3,7 +3,7 @@
 ![light](https://github.com/SendingA/SendingA/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![dark](https://github.com/SendingA/SendingA/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-I am **Shengding Liu**, one fresh PHD student at Michigan State University. I hope I can **do some interesting research work** and **make huge impacts** during my PHD career.
+I am **Shengding Liu**, a second year PHD student at Michigan State University. I hope I can **do some interesting research work** and **make huge impacts** during my PHD career.
 
 ### About Me
 
